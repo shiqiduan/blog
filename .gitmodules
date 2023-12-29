@@ -1,0 +1,7 @@
+[submodule "my-blog/public"]
+	path = my-blog/public
+	url = git@github.com:shiqiduan/shiqiduan.github.io.git
+	branch = main
+[submodule "my-blog/themes/m10c"]
+	path = my-blog/themes/m10c
+	url = git@github.com:vaga/hugo-theme-m10c.git
